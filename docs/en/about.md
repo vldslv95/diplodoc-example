@@ -18,6 +18,3 @@ To make changes and apply them:
 - run "Release" action and wait till completion 
 - done, updates should be available for everyone. 
 
-
-In case if you would like to make proxy from your own domain to this Documentation - please [Contact Us](https://diplodoc.com/#contact) - we will support you accordingly till appropriate documentation creation. 
-
